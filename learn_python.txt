@@ -1,0 +1,10 @@
+2018-7-12
+***git 代码管理软件的学习**** 
+git init   新建管理库
+touch   file.format
+git add  把文件放进stage
+git commit  提交、保存
+git diff  查看修改
+git reset  回到以前
+git checkout  查看单个文件历史版本
+git branch  对文件可平行分支存储和编写
