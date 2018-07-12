@@ -1,3 +1,2 @@
-print ("i has learned git");
-c= 1;
-d +=c;
+print ("i am learning git");
+# I went back to change1
